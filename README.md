@@ -26,9 +26,9 @@ This keyboard layout will make your programming life **much** easier while keepi
 
 ![screenshot dropdown](screenshots/layout-option-shift.jpg)
 
-
 ### Installation
-1. Download and open [Deutsch - Programming.dmg](https://github.com/MickL/macos-keyboard-layout-german-programming/raw/master/keyboard-layout-german-programming.dmg)
+
+1. Download and open [German - Programming.dmg](https://github.com/matthiasthieroff/macos-keyboard-layout-german-programming/raw/master/German%20-%20Programming.dmg)
 2. Install of current user
 3. Open macOS Systemeinstellungen -> Tastatur -> Eingabequellen -> Bearbeiten -> click `+` -> click `Deutsch - Programmierung` -> click `Hinzufügen`
 4. Optional: Activate checkbox `Eingabequellen in der Menüleiste anzeigen` to see the current active keyborad layout and be able to switch them (you can also switch quickly by pressing ctrl + option + space)
@@ -37,4 +37,5 @@ This keyboard layout will make your programming life **much** easier while keepi
 You can now swap the keyboard layout in macOS toolbar (top right corner)
 
 ### Other
+
 Made with [Ukelele](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele). Feel free to contribute / create pull requests!
