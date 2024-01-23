@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.deutsch-programming</string>
+	<string>org.sil.ukelele.keyboardlayout.german-programming</string>
 	<key>CFBundleName</key>
-	<string>Deutsch - Programming</string>
+	<string>German - Programming</string>
 	<key>CFBundleVersion</key>
-	<string>1.1</string>
-	<key>KLInfo_Deutsch - Programming</key>
+	<string>1.2</string>
+	<key>KLInfo_German - Programming</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.deutsch-programming.deutsch-programming</string>
+		<string>org.sil.ukelele.keyboardlayout.german-programming.german-programming</string>
 		<key>TISIntendedLanguage</key>
 		<string>de-DE</string>
 	</dict>
