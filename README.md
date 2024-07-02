@@ -1,14 +1,14 @@
-# Deutsches Keyboard Layout zum Programmieren auf macOS
+# German "Programming" Keyboard Layout for macOS
 
 This keyboard layout will make your programming life **much** easier while keeping as many habits of german-keyboard-usage as possible!
 
 - Replaces `äöüÄÖÜ` with `[]{}|~`
 - No more dead keys `` ^´` ``
-- Access `äöüÄÖÜ` by pressing `option / alt`
+- Access `äöüÄÖÜ` by pressing `option`
 
 **Screenshot:**
 
-![screenshot dropdown](screenshots/dropdown.jpg)
+![screenshot dropdown](screenshots/dropdown.png)
 
 **Keyboard layout:**
 
